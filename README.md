@@ -1,4 +1,6 @@
-# UFSCar - ML in Production - Módulo Eng. de ML 3: Model Serving - Atividade 1
+# UFSCar - ML in Production
+## Módulo 3 - Engenharia de Machine Learning: Model Serving
+## Atividade 1
 
 ## Projeto de classificação de Iris com MLServer
 
