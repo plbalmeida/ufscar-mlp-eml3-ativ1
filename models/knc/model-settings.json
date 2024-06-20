@@ -1,0 +1,8 @@
+{
+    "name": "iris-classifier-knc",
+    "implementation": "mlserver_sklearn.SKLearnModel",
+    "parameters": {
+        "uri": "iris_knc.joblib",
+        "version": "1.0"
+    }
+}

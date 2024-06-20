@@ -1,0 +1,8 @@
+{
+    "name": "iris-classifier-rf",
+    "implementation": "mlserver_sklearn.SKLearnModel",
+    "parameters": {
+        "uri": "iris_rf.joblib",
+        "version": "1.0"
+    }
+}
